@@ -4,8 +4,8 @@ Faço **Engenharia de Software (4/8)** e curto desenvolvimento web e dados. Por 
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-static.png">
-    <img src="./assets/terminal.gif" alt="Terminal animado com React e TypeScript, Java e Spring Boot, Python e pandas, ao lado de um personagem digitando." width="720">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/stack-static.png">
+    <img src="./assets/stack-loading.gif" alt="Stacks de web, APIs e dados com 16 ícones sendo carregados, um personagem digitando e os quatro projetos do perfil." width="800">
   </picture>
 </p>
 
